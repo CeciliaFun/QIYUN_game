@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: 27589f30b9483f44aa7502642073ffc9
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 790f1b4cb8767a746a2c1fbeed483d04
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 5cc1f4adc45ff0747b936c507d9955fb
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: b2ced9b5084d7f543b5735eb234dac09
+  - enabled: 1
+    path: Assets/Scenes/L1_Fire.unity
+    guid: 32ac6212823dcc849b7454ae1e1cb6fa
+  - enabled: 1
+    path: Assets/Scenes/L2_Incense.unity
+    guid: fb8d05c7ba1c6574294621b7aa925a6e
+  - enabled: 1
+    path: Assets/Scenes/L2_Fossil.unity
+    guid: 01e7e18def1ce274f93c7d439b7859bf
+  - enabled: 1
+    path: Assets/Scenes/L3_Puzzle.unity
+    guid: c76fbc4519006334abbcd02d3a3d6f05
+  - enabled: 1
+    path: Assets/Scenes/L1_Soil.unity
+    guid: 6082b4920fddca44c97daa70dbef0232
+  m_configObjects: {}
